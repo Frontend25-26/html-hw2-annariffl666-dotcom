@@ -4,3 +4,11 @@ body {
 
     background: #292929;
 }
+
+.a:hover {
+    background-color: red;
+}
+
+.a::before {
+    content: "";
+}
